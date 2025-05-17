@@ -40,5 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [List, ArrayList, LinkedList BigO, DI](https://soheeparklee.github.io/posts/intermediate-arraylist/)
+- [Exception](https://soheeparklee.github.io/posts/intermediate-exception/)
+- [Nested Class, Inner Class](https://soheeparklee.github.io/posts/intermediate-nested_inner_class/)
+- [Date and Time](https://soheeparklee.github.io/posts/intermediate-datetime/)
+- [Wrapper](https://soheeparklee.github.io/posts/intermediate-wrapper/)
 <!-- BLOG-POST-LIST:END -->
 
