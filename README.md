@@ -9,7 +9,7 @@
 - I enjoy learning by facing challenges head-on, and solving problems along the way.
 - Fluent English, Spanish, Korean speaker
 
-<a href="https://www.linkedin.com/in/soheeparklee">
+<a href="https://www.linkedin.com/in/soheeparkee/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="15" alt="linkedin logo" /> linkedin.com/in/soheeparklee
 </a>
 
