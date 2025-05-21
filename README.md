@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SOLID](https://soheeparklee.github.io/posts/spring-oop/)
 - [Aspect Oriented Programming](https://soheeparklee.github.io/posts/spring-AOP/)
 - [Developing Web](https://soheeparklee.github.io/posts/spring-web/)
 - [List, ArrayList, LinkedList BigO, DI](https://soheeparklee.github.io/posts/intermediate-arraylist/)
 - [Exception](https://soheeparklee.github.io/posts/intermediate-exception/)
-- [Nested Class, Inner Class](https://soheeparklee.github.io/posts/intermediate-nested_inner_class/)
 <!-- BLOG-POST-LIST:END -->
 
