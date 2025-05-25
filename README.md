@@ -43,7 +43,7 @@
 - [SOLID](https://soheeparklee.github.io/posts/spring-oop/)
 - [Aspect Oriented Programming](https://soheeparklee.github.io/posts/spring-AOP/)
 - [Developing Web](https://soheeparklee.github.io/posts/spring-web/)
-- [List, ArrayList, LinkedList BigO, DI](https://soheeparklee.github.io/posts/intermediate-arraylist/)
-- [Exception](https://soheeparklee.github.io/posts/intermediate-exception/)
+- [Iterable, Comparable, Collection](https://soheeparklee.github.io/posts/intermediate-iterator/)
+- [Stack, Queue](https://soheeparklee.github.io/posts/stack/)
 <!-- BLOG-POST-LIST:END -->
 
