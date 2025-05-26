@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [SOLID](https://soheeparklee.github.io/posts/spring-oop/)
+- [SOLID, DI](https://soheeparklee.github.io/posts/spring-oop/)
+- [Open Closed Principle](https://soheeparklee.github.io/posts/spring-copy/)
 - [Aspect Oriented Programming](https://soheeparklee.github.io/posts/spring-AOP/)
-- [Developing Web](https://soheeparklee.github.io/posts/spring-web/)
-- [Iterable, Comparable, Collection](https://soheeparklee.github.io/posts/intermediate-iterator/)
-- [Stack, Queue](https://soheeparklee.github.io/posts/stack/)
+- [H2, JDBC, JPA, ORM](https://soheeparklee.github.io/posts/spring-database/)
+- [Repository, Service, Test, springbean, component scan](https://soheeparklee.github.io/posts/spring-application/)
 <!-- BLOG-POST-LIST:END -->
 
