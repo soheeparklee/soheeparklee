@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Singleton](https://soheeparklee.github.io/posts/spring-singleton/)
+- [Spring Container and Bean with configuration class](https://soheeparklee.github.io/posts/spring-bean/)
+- [IoC, DI](https://soheeparklee.github.io/posts/spring-ioc-di/)
 - [SOLID, DI](https://soheeparklee.github.io/posts/spring-oop/)
 - [Open Closed Principle](https://soheeparklee.github.io/posts/spring-copy/)
-- [Aspect Oriented Programming](https://soheeparklee.github.io/posts/spring-AOP/)
-- [H2, JDBC, JPA, ORM](https://soheeparklee.github.io/posts/spring-database/)
-- [Repository, Service, Test, springbean, component scan](https://soheeparklee.github.io/posts/spring-application/)
 <!-- BLOG-POST-LIST:END -->
 
