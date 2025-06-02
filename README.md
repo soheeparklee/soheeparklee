@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bean Scope](https://soheeparklee.github.io/posts/spring-beanscope/)
+- [Bean Life cycle callback](https://soheeparklee.github.io/posts/spring-beanlifecycle/)
+- [SpringBean Annotations](https://soheeparklee.github.io/posts/spring-option/)
 - [Singleton](https://soheeparklee.github.io/posts/spring-singleton/)
 - [Spring Container and Bean with configuration class](https://soheeparklee.github.io/posts/spring-bean/)
-- [IoC, DI](https://soheeparklee.github.io/posts/spring-ioc-di/)
-- [SOLID, DI](https://soheeparklee.github.io/posts/spring-oop/)
-- [Open Closed Principle](https://soheeparklee.github.io/posts/spring-copy/)
 <!-- BLOG-POST-LIST:END -->
 
