@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview](https://soheeparklee.github.io/posts/java-interview1/)
+- [Docker](https://soheeparklee.github.io/posts/docker-docker/)
 - [Bean Scope](https://soheeparklee.github.io/posts/spring-beanscope/)
 - [Bean Life cycle callback](https://soheeparklee.github.io/posts/spring-beanlifecycle/)
 - [SpringBean Annotations](https://soheeparklee.github.io/posts/spring-option/)
-- [Singleton](https://soheeparklee.github.io/posts/spring-singleton/)
-- [Spring Container and Bean with configuration class](https://soheeparklee.github.io/posts/spring-bean/)
 <!-- BLOG-POST-LIST:END -->
 
