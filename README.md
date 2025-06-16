@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview_Collection Framework, Thread](https://soheeparklee.github.io/posts/java-interview3/)
 - [Interview_literal/StringBuilder/Exception/Generic/lambda, stream/Functional programming/Functional Interface/Annotation](https://soheeparklee.github.io/posts/java-interview2/)
 - [Interview_Java, JVM, OOP](https://soheeparklee.github.io/posts/java-interview1/)
 - [Docker](https://soheeparklee.github.io/posts/docker-docker/)
 - [Bean Scope](https://soheeparklee.github.io/posts/spring-beanscope/)
-- [Bean Life cycle callback](https://soheeparklee.github.io/posts/spring-beanlifecycle/)
 <!-- BLOG-POST-LIST:END -->
 
