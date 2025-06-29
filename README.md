@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Interview_SQL](https://soheeparklee.github.io/posts/db-interview2/)
 - [데이터베이스 개론_Schema, Instance, 3-level, RDBMS, Key, Integrity](https://soheeparklee.github.io/posts/DB-interview1/)
 - [Docker compose](https://soheeparklee.github.io/posts/docker-dockercompose/)
 - [Interview_JVM, GC](https://soheeparklee.github.io/posts/java-interview5/)
 - [Docker file 작성하기, SpringBoot, Next.js, HTML올리기](https://soheeparklee.github.io/posts/docker-dockerfile/)
-- [Docker volume, MySQL, PostgreSQL, MongoDB](https://soheeparklee.github.io/posts/docker-volume/)
 <!-- BLOG-POST-LIST:END -->
 
