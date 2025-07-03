@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Docker with AWS EC2](https://soheeparklee.github.io/posts/docker-EC2/)
 - [Interview_](https://soheeparklee.github.io/posts/db-interview5/)
 - [Interview_Anomaly, Functional Dependency, Normalization](https://soheeparklee.github.io/posts/db-interview4/)
 - [Interview_SQL](https://soheeparklee.github.io/posts/db-interview2/)
 - [데이터베이스 개론_Schema, Instance, 3-level, RDBMS, Key, Integrity](https://soheeparklee.github.io/posts/DB-interview1/)
-- [Docker compose](https://soheeparklee.github.io/posts/docker-dockercompose/)
 <!-- BLOG-POST-LIST:END -->
 
