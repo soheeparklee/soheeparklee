@@ -41,9 +41,9 @@
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Docker with AWS EC2](https://soheeparklee.github.io/posts/docker-EC2/)
-- [Interview_](https://soheeparklee.github.io/posts/db-interview5/)
+- [Interview_Transaction, ACID, Isolation, Deadlock](https://soheeparklee.github.io/posts/db-interview5/)
 - [Interview_Anomaly, Functional Dependency, Normalization](https://soheeparklee.github.io/posts/db-interview4/)
+- [Interview_Index, query execution plan, hint](https://soheeparklee.github.io/posts/db-interview3/)
 - [Interview_SQL](https://soheeparklee.github.io/posts/db-interview2/)
-- [데이터베이스 개론_Schema, Instance, 3-level, RDBMS, Key, Integrity](https://soheeparklee.github.io/posts/DB-interview1/)
 <!-- BLOG-POST-LIST:END -->
 
