@@ -10,11 +10,11 @@
 - Fluent English, Spanish, Korean speaker
 
 <a href="https://www.linkedin.com/in/soheeparkee/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="15" alt="linkedin logo" /> linkedin.com/in/soheeparklee
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="15" height="15" alt="linkedin logo" /> linkedin.com/in/soheeparklee
 </a>
 
 <a href="mailto:soheeparklee@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="15" alt="gmail logo" /> soheeparklee@gmail.com
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="15" height="15" alt="gmail logo" /> soheeparklee@gmail.com
 </a>
 
 <br> 
