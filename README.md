@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [R_basic commands](https://soheeparklee.github.io/posts/R/)
 - [Docker with AWS EC2](https://soheeparklee.github.io/posts/docker-EC2/)
 - [Interview_Transaction, ACID, Isolation, Deadlock](https://soheeparklee.github.io/posts/db-interview5/)
 - [Interview_Anomaly, Functional Dependency, Normalization](https://soheeparklee.github.io/posts/db-interview4/)
 - [Interview_Index, query execution plan, hint](https://soheeparklee.github.io/posts/db-interview3/)
-- [Interview_SQL](https://soheeparklee.github.io/posts/db-interview2/)
 <!-- BLOG-POST-LIST:END -->
 
