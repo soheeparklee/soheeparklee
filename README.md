@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [R_basic commands](https://soheeparklee.github.io/posts/R/)
-- [Docker with AWS EC2](https://soheeparklee.github.io/posts/docker-EC2/)
-- [Interview_Transaction, ACID, Isolation, Deadlock](https://soheeparklee.github.io/posts/db-interview5/)
-- [Interview_Anomaly, Functional Dependency, Normalization](https://soheeparklee.github.io/posts/db-interview4/)
-- [Interview_Index, query execution plan, hint](https://soheeparklee.github.io/posts/db-interview3/)
+- [Pointer](https://soheeparklee.github.io/posts/GO-pointer/)
+- [Interface/Error Handling](https://soheeparklee.github.io/posts/GO-interface/)
+- [Variable/Print/Scanner/Type/Operator/Array/Slice/Function/Mutable](https://soheeparklee.github.io/posts/GO-basics/)
+- [Go copy](https://soheeparklee.github.io/posts/GO-copy/)
+- [Kubernetes, Pod](https://soheeparklee.github.io/posts/kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
