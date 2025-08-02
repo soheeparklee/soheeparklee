@@ -40,7 +40,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency](https://soheeparklee.github.io/posts/GO-concurrency/)
+- [Concurrency, GoRoutine, Waitgroup, Defer, Mutex, Channel, Select, Jobs and Workpools](https://soheeparklee.github.io/posts/GO-concurrency/)
 - [Pointer](https://soheeparklee.github.io/posts/GO-pointer/)
 - [Interface/Error Handling](https://soheeparklee.github.io/posts/GO-interface/)
 - [Variable/Print/Scanner/Type/Operator/Array/Slice/Function/Mutable](https://soheeparklee.github.io/posts/GO-basics/)
