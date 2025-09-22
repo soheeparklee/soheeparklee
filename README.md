@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [1.3 Image/Raster/Vector/Audio/Video](https://soheeparklee.github.io/posts/DAW-system-files/)
+- [Data modeling](https://soheeparklee.github.io/posts/DAW-db/)
 - [TDD in GoLang](https://soheeparklee.github.io/posts/GO-TDD/)
 - [Concurrency, GoRoutine, Waitgroup, Defer, Mutex, Channel, Select, Jobs and Workpools](https://soheeparklee.github.io/posts/GO-concurrency/)
 - [Pointer](https://soheeparklee.github.io/posts/GO-pointer/)
-- [Interface/Method/Error Handling](https://soheeparklee.github.io/posts/GO-interface/)
-- [Variable/Print/Scanner/Type/Operator/Array/Slice/Function/Mutable/Method](https://soheeparklee.github.io/posts/GO-basics/)
 <!-- BLOG-POST-LIST:END -->
 
