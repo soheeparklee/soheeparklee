@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [1.4 Protection of bits, Hashing](https://soheeparklee.github.io/posts/DAW-system-protection/)
 - [1.4 Protection of bits](https://soheeparklee.github.io/posts/DAW-system-protection/)
 - [1.3 Image/Raster/Vector/Audio/Video](https://soheeparklee.github.io/posts/DAW-system-files/)
 - [Data modeling](https://soheeparklee.github.io/posts/DAW-db/)
 - [TDD in GoLang](https://soheeparklee.github.io/posts/GO-TDD/)
-- [Concurrency, GoRoutine, Waitgroup, Defer, Mutex, Channel, Select, Jobs and Workpools](https://soheeparklee.github.io/posts/GO-concurrency/)
 <!-- BLOG-POST-LIST:END -->
 
