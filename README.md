@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [1.4 Protection of bits, Hashing](https://soheeparklee.github.io/posts/DAW-system-protection/)
+- [1.6 Main Security Risks in systems, Cookies](https://soheeparklee.github.io/posts/DAW-system-risks/)
+- [1.7 Main memory&lpar;RAM&rpar; Addressing](https://soheeparklee.github.io/posts/DAW-system-RAM/)
+- [1.4 Protection of bits 1.5 Hashing](https://soheeparklee.github.io/posts/DAW-system-protection/)
 - [1.3 Image/Raster/Vector/Audio/Video](https://soheeparklee.github.io/posts/DAW-system-files/)
 - [Operador, Conversiones](https://soheeparklee.github.io/posts/DAW-programacion-operador/)
-- [Data modeling](https://soheeparklee.github.io/posts/DAW-db/)
-- [TDD in GoLang](https://soheeparklee.github.io/posts/GO-TDD/)
 <!-- BLOG-POST-LIST:END -->
 
