@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [1.6 Main Security Risks in systems, Cookies](https://soheeparklee.github.io/posts/DAW-system-risks/)
+- [1.10 Neumann Architecture](https://soheeparklee.github.io/posts/DAW-neumann/)
+- [1.9 Logic Gates and Computer Math](https://soheeparklee.github.io/posts/DAW-logic-gates/)
+- [1.8 Multiples of Bit](https://soheeparklee.github.io/posts/DAW-bit/)
+- [Daw copy](https://soheeparklee.github.io/posts/DAW-copy/)
 - [1.7 Main memory&lpar;RAM&rpar; Addressing](https://soheeparklee.github.io/posts/DAW-system-RAM/)
-- [1.4 Protection of bits, 1.5 Hashing](https://soheeparklee.github.io/posts/DAW-system-protection/)
-- [1.3 Image/Raster/Vector/Audio/Video](https://soheeparklee.github.io/posts/DAW-system-files/)
-- [Operador, Conversiones](https://soheeparklee.github.io/posts/DAW-programacion-operador/)
 <!-- BLOG-POST-LIST:END -->
 
