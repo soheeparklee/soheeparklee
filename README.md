@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [1.10 Neumann Architecture](https://soheeparklee.github.io/posts/DAW-neumann/)
-- [1.9 Logic Gates and Computer Math](https://soheeparklee.github.io/posts/DAW-logic-gates/)
+- [2. Data Modeling](https://soheeparklee.github.io/posts/DAW-db-erd/)
+- [1. Information Storage](https://soheeparklee.github.io/posts/DAW-db-data/)
+- [1.10 Neumann Architecture](https://soheeparklee.github.io/posts/DAW-system-neumann/)
+- [1.9 Logic Gates and Computer Math](https://soheeparklee.github.io/posts/DAW-system-logic-gates/)
 - [1.8 Multiples of Bit](https://soheeparklee.github.io/posts/DAW-bit/)
-- [Daw copy](https://soheeparklee.github.io/posts/DAW-copy/)
-- [1.7 Main memory&lpar;RAM&rpar; Addressing](https://soheeparklee.github.io/posts/DAW-system-RAM/)
 <!-- BLOG-POST-LIST:END -->
 
