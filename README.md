@@ -40,8 +40,8 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[No Title] - Post](https://soheeparklee.github.io/posts/2025-10-8-DAW-system-multicore/)
 - [1.12 Hardware specifications](https://soheeparklee.github.io/posts/DAW-system-hardware/)
+- [1.11 Microprocessor- Multicore and Multithreading](https://soheeparklee.github.io/posts/DAW-system-multicore/)
 - [2. Data Modeling](https://soheeparklee.github.io/posts/DAW-db-erd/)
 - [1. Information Storage](https://soheeparklee.github.io/posts/DAW-db-data/)
 - [1.10 Neumann Architecture](https://soheeparklee.github.io/posts/DAW-system-neumann/)
