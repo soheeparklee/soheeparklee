@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [1.13 Hardware specifications](https://soheeparklee.github.io/posts/DAW-hardware2/)
-- [1.12 Hardware specifications](https://soheeparklee.github.io/posts/DAW-system-hardware/)
+- [2.1 Hardware and Software](https://soheeparklee.github.io/posts/DAW-system-2-1-HWSW/)
+- [Daw copy](https://soheeparklee.github.io/posts/DAW-copy/)
+- [1.13 Hardware specifications_2](https://soheeparklee.github.io/posts/DAW-hardware2/)
+- [1.12 Hardware specifications_1](https://soheeparklee.github.io/posts/DAW-system-hardware/)
 - [1.11 Microprocessor- Multicore and Multithreading](https://soheeparklee.github.io/posts/DAW-system-multicore/)
-- [2. Data Modeling](https://soheeparklee.github.io/posts/DAW-db-erd/)
-- [1. Information Storage](https://soheeparklee.github.io/posts/DAW-db-data/)
 <!-- BLOG-POST-LIST:END -->
 
