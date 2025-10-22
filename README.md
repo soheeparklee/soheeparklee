@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Structure of Operating System](https://soheeparklee.github.io/posts/DAW-system-2-4-OS-structure/)
+- [Types of Operating Systems](https://soheeparklee.github.io/posts/DAW-system-2-3-OS-types/)
+- [2.2 Timeline of Operating Systems](https://soheeparklee.github.io/posts/DAW-system-2-2-OS-timeline/)
 - [2.1 Hardware and Software](https://soheeparklee.github.io/posts/DAW-system-2-1-HWSW/)
 - [Daw copy](https://soheeparklee.github.io/posts/DAW-copy/)
-- [1.13 Hardware specifications_2](https://soheeparklee.github.io/posts/DAW-hardware2/)
-- [1.12 Hardware specifications_1](https://soheeparklee.github.io/posts/DAW-system-hardware/)
-- [1.11 Microprocessor- Multicore and Multithreading](https://soheeparklee.github.io/posts/DAW-system-multicore/)
 <!-- BLOG-POST-LIST:END -->
 
