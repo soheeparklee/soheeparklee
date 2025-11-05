@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Daw system 2 8](https://soheeparklee.github.io/posts/DAW-system-2-8/)
 - [2.7 Memory Management](https://soheeparklee.github.io/posts/DAW-system-2-7-memory-management/)
 - [2.6 OS Function1_File Management](https://soheeparklee.github.io/posts/DAW-file-management/)
 - [2.5 SW Licenses](https://soheeparklee.github.io/posts/DAW-system-2-5-OS-license/)
 - [2.4 Structure of Operating System](https://soheeparklee.github.io/posts/DAW-system-2-4-OS-structure/)
-- [2.3 Types of Operating Systems](https://soheeparklee.github.io/posts/DAW-system-2-3-OS-types/)
 <!-- BLOG-POST-LIST:END -->
 
