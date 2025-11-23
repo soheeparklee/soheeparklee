@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [2.10 Optimization management](https://soheeparklee.github.io/posts/DAW-system-2-10-optimization/)
 - [2.9 Input/Output and general interruptions management](https://soheeparklee.github.io/posts/DAW-system-2-9-input/)
 - [Daw system 2 8](https://soheeparklee.github.io/posts/DAW-system-2-8/)
 - [2.8 Process Dispatch](https://soheeparklee.github.io/posts/DAW-system-2-8-process-dispatch/)
 - [2.7 Memory Management](https://soheeparklee.github.io/posts/DAW-system-2-7-memory-management/)
-- [2.6 OS Function1_File Management](https://soheeparklee.github.io/posts/DAW-file-management/)
 <!-- BLOG-POST-LIST:END -->
 
