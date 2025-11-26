@@ -44,6 +44,6 @@
 - [3.1 How to](https://soheeparklee.github.io/posts/DAW-system-3-1-copy/)
 - [2.10 Optimization management](https://soheeparklee.github.io/posts/DAW-system-2-10-optimization/)
 - [2.9 Input/Output and general interruptions management](https://soheeparklee.github.io/posts/DAW-system-2-9-input/)
-- [Daw system 2 8](https://soheeparklee.github.io/posts/DAW-system-2-8/)
+- [2.8 Process Dispatch](https://soheeparklee.github.io/posts/DAW-system-2-8-process-dispatch/)
 <!-- BLOG-POST-LIST:END -->
 
