@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3.6 OS Managers and HW visualizations](https://soheeparklee.github.io/posts/DAW-system-3-6-extras/)
+- [3.6 Complete diagnosis of a system with CPU-Z](https://soheeparklee.github.io/posts/DAW-system-3-5-real-diagnosis/)
+- [3.4 HW specs for installing the OOSS](https://soheeparklee.github.io/posts/DAW-system-3-4-hw/)
+- [3.3 Mix architecture and OS](https://soheeparklee.github.io/posts/DAW-system-3-3-os-and-architecture/)
 - [3.2 32 or 64?](https://soheeparklee.github.io/posts/DAW-system-3-2-3264/)
-- [3.1 Agile and Scrum](https://soheeparklee.github.io/posts/DAW-system-3-1-agile-scrum/)
-- [3.1 How to](https://soheeparklee.github.io/posts/DAW-system-3-1-copy/)
-- [2.10 Optimization management](https://soheeparklee.github.io/posts/DAW-system-2-10-optimization/)
-- [2.9 Input/Output and general interruptions management](https://soheeparklee.github.io/posts/DAW-system-2-9-input/)
 <!-- BLOG-POST-LIST:END -->
 
