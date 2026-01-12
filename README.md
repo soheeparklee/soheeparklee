@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3.9 Partition System](https://soheeparklee.github.io/posts/DAW-system-3-9-partition-system/)
 - [3.8 Partitions](https://soheeparklee.github.io/posts/DAW-system-3-8-partitions/)
 - [3.7 OOSS Installation Techniques](https://soheeparklee.github.io/posts/DAW-system-3-7/)
 - [3.6 OS Managers and HW visualizations](https://soheeparklee.github.io/posts/DAW-system-3-6-extras/)
 - [3.5 Complete diagnosis of a system with CPU-Z](https://soheeparklee.github.io/posts/DAW-system-3-5-real-diagnosis/)
-- [3.4 HW specs for installing the OOSS](https://soheeparklee.github.io/posts/DAW-system-3-4-hw/)
 <!-- BLOG-POST-LIST:END -->
 
