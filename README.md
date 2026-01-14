@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [[No Title] - Post](https://soheeparklee.github.io/posts/2026-01-14-DAW-system-3-12-installation-plan/)
+- [3.11 Combination of the BIOS Legacy/UEFI booting and MBR/GPT](https://soheeparklee.github.io/posts/DAW-system-3-11-combo/)
+- [3.10 BIOS Legacy vs. UEFI](https://soheeparklee.github.io/posts/DAW-system-3-10/)
 - [3.9 Partition System](https://soheeparklee.github.io/posts/DAW-system-3-9-partition-system/)
 - [3.8 Partitions](https://soheeparklee.github.io/posts/DAW-system-3-8-partitions/)
-- [3.7 OOSS Installation Techniques](https://soheeparklee.github.io/posts/DAW-system-3-7/)
-- [3.6 OS Managers and HW visualizations](https://soheeparklee.github.io/posts/DAW-system-3-6-extras/)
-- [3.5 Complete diagnosis of a system with CPU-Z](https://soheeparklee.github.io/posts/DAW-system-3-5-real-diagnosis/)
 <!-- BLOG-POST-LIST:END -->
 
