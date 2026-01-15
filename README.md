@@ -40,7 +40,7 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[No Title] - Post](https://soheeparklee.github.io/posts/2026-01-14-DAW-system-3-12-installation-plan/)
+- [3.12 Conclusion_Perfect installation plan](https://soheeparklee.github.io/posts/DAW-system-3-12-installation-plan/)
 - [3.11 Combination of the BIOS Legacy/UEFI booting and MBR/GPT](https://soheeparklee.github.io/posts/DAW-system-3-11-combo/)
 - [3.10 BIOS Legacy vs. UEFI](https://soheeparklee.github.io/posts/DAW-system-3-10/)
 - [3.9 Partition System](https://soheeparklee.github.io/posts/DAW-system-3-9-partition-system/)
