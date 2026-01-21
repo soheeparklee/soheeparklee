@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6. Windows](https://soheeparklee.github.io/posts/DAW-system-6-1-windows/)
+- [4.3 Creation of VM](https://soheeparklee.github.io/posts/DAW-system-4-3-createVM/)
 - [4.1 Visualization](https://soheeparklee.github.io/posts/DAW-system-4-1-vm/)
 - [3.13 Booting and Transition to Active OS](https://soheeparklee.github.io/posts/DAW-system-3-13-booting/)
 - [3.12 Conclusion_Perfect installation plan](https://soheeparklee.github.io/posts/DAW-system-3-12-installation-plan/)
-- [3.11 Combination of the BIOS Legacy/UEFI booting and MBR/GPT](https://soheeparklee.github.io/posts/DAW-system-3-11-combo/)
-- [3.10 BIOS Legacy vs. UEFI](https://soheeparklee.github.io/posts/DAW-system-3-10/)
 <!-- BLOG-POST-LIST:END -->
 
