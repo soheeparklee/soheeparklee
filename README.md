@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4.4 Virtual Machine Setting](https://soheeparklee.github.io/posts/DAW-system-4-4-setting/)
 - [6. Windows](https://soheeparklee.github.io/posts/DAW-system-6-1-windows/)
 - [4.3 Creation of VM](https://soheeparklee.github.io/posts/DAW-system-4-3-createVM/)
+- [4.2 VirtualBox installation errors](https://soheeparklee.github.io/posts/DAW-system-4-2-installation-error/)
 - [4.1 Visualization](https://soheeparklee.github.io/posts/DAW-system-4-1-vm/)
-- [3.13 Booting and Transition to Active OS](https://soheeparklee.github.io/posts/DAW-system-3-13-booting/)
-- [3.12 Conclusion_Perfect installation plan](https://soheeparklee.github.io/posts/DAW-system-3-12-installation-plan/)
 <!-- BLOG-POST-LIST:END -->
 
