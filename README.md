@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [4.6 States of VM](https://soheeparklee.github.io/posts/DAW-system-4-6-states/)
+- [4.5 Connect VM to the network](https://soheeparklee.github.io/posts/DAW-system-4-5-network/)
 - [4.4 Virtual Machine Setting](https://soheeparklee.github.io/posts/DAW-system-4-4-setting/)
 - [6. Windows](https://soheeparklee.github.io/posts/DAW-system-6-1-windows/)
 - [4.3 Creation of VM](https://soheeparklee.github.io/posts/DAW-system-4-3-createVM/)
-- [4.2 VirtualBox installation errors](https://soheeparklee.github.io/posts/DAW-system-4-2-installation-error/)
-- [4.1 Visualization](https://soheeparklee.github.io/posts/DAW-system-4-1-vm/)
 <!-- BLOG-POST-LIST:END -->
 
