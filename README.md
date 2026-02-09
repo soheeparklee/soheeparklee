@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [4.11 GPartEd](https://soheeparklee.github.io/posts/DAW-system-4-11-gparted/)
+- [4.15 GPartEd](https://soheeparklee.github.io/posts/DAW-system-4-15-gparted/)
 - [3.14 Fred&#39;s case solutions](https://soheeparklee.github.io/posts/DAW-system-3-14-practica/)
+- [4.10-14 Save State/Grouping/Optimization/Clone/Delete](https://soheeparklee.github.io/posts/DAW-system-4-10-save-switchoff/)
 - [4.9 Hostkey](https://soheeparklee.github.io/posts/DAW-system-4-9-hostkey/)
 - [4.8 Deployment of VM](https://soheeparklee.github.io/posts/DAW-system-4-8-deploy/)
-- [4.10 Save State, 4.11 Grouping, 4.12 Optimization, 4.13 Clone, 4.14 Delete](https://soheeparklee.github.io/posts/DAW-system-4-10-save-switchoff/)
 <!-- BLOG-POST-LIST:END -->
 
