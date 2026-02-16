@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5.7 Incidents in installation](https://soheeparklee.github.io/posts/DAW-system-5-7-linux-noble-numbat/)
 - [5.5 Install linux in VM](https://soheeparklee.github.io/posts/DAW-system-5-5-linux-VM/)
 - [Daw System 5 4 Ubuntu Download](https://soheeparklee.github.io/posts/DAW-system-5-4-ubuntu-download/)
 - [5.3 Ubuntu, TuxCare](https://soheeparklee.github.io/posts/DAW-system-5-3-linux-ubuntu/)
 - [5.2 Ubuntu flavor](https://soheeparklee.github.io/posts/DAW-system-5-2-linux-flavor/)
-- [Junit and AssertJ](https://soheeparklee.github.io/posts/JAVA-TDD/)
 <!-- BLOG-POST-LIST:END -->
 
