@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [4.15 GPartEd](https://soheeparklee.github.io/posts/DAW-system-4-15-gparted/)
-- [3.14 Fred&#39;s case solutions](https://soheeparklee.github.io/posts/DAW-system-3-14-practica/)
-- [4.10-14 Save State/Grouping/Optimization/Clone/Delete](https://soheeparklee.github.io/posts/DAW-system-4-10-save-switchoff/)
-- [4.9 Hostkey](https://soheeparklee.github.io/posts/DAW-system-4-9-hostkey/)
-- [4.8 Deployment of VM](https://soheeparklee.github.io/posts/DAW-system-4-8-deploy/)
+- [Junit and AssertJ](https://soheeparklee.github.io/posts/JAVA-TDD/)
+- [6.5 Windows 11](https://soheeparklee.github.io/posts/DAW-system-6-5-win11/)
+- [6.4 Windows 10 Hardware requirements](https://soheeparklee.github.io/posts/DAW-system-6-4-win10/)
+- [6.](https://soheeparklee.github.io/posts/DAW-system-5-linux/)
+- [5.1 Linux OS Structure](https://soheeparklee.github.io/posts/DAW-system-5-linux-structure/)
 <!-- BLOG-POST-LIST:END -->
 
