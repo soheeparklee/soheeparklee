@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [6.6 Branches of Windows](https://soheeparklee.github.io/posts/DAW-system-6-7-windows-folders/)
+- [6.6 Download window iso](https://soheeparklee.github.io/posts/DAW-system-6-6-iso/)
 - [Factory](https://soheeparklee.github.io/posts/JAVA-GoF-factory/)
 - [Layered Architecutre and Integration Test](https://soheeparklee.github.io/posts/JAVA-TDD-2-architecture/)
 - [TDD, Display Name, BDD](https://soheeparklee.github.io/posts/JAVA-TDD-1-tdd/)
-- [5. Linux Branched](https://soheeparklee.github.io/posts/DAW-system-5-linux-branch/)
-- [5.7 Incidents in installation](https://soheeparklee.github.io/posts/DAW-system-5-7-linux-noble-numbat/)
 <!-- BLOG-POST-LIST:END -->
 
