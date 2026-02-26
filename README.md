@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [6.6 Branches of Windows](https://soheeparklee.github.io/posts/DAW-system-6-7-windows-folders/)
-- [6.6 Download window iso](https://soheeparklee.github.io/posts/DAW-system-6-6-iso/)
-- [Factory](https://soheeparklee.github.io/posts/JAVA-GoF-factory/)
-- [Layered Architecutre and Integration Test](https://soheeparklee.github.io/posts/JAVA-TDD-2-architecture/)
-- [TDD, Display Name, BDD](https://soheeparklee.github.io/posts/JAVA-TDD-1-tdd/)
+- [Persistence layer test](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-2/)
+- [Persistence layer client code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-1/)
+- [Structural_Bridge](https://soheeparklee.github.io/posts/JAVA-GoF-bridge/)
+- [Adapter](https://soheeparklee.github.io/posts/JAVA-GoF-adapter/)
+- [6.7 Branches of Windows](https://soheeparklee.github.io/posts/DAW-system-6-7-windows-folders/)
 <!-- BLOG-POST-LIST:END -->
 
