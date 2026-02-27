@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Behavioral_Command Pattern](https://soheeparklee.github.io/posts/JAVA-GoF-command/)
 - [Persistence layer test](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-2/)
 - [Persistence layer client code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-1/)
+- [Behavioral_Chain Of Responsibility](https://soheeparklee.github.io/posts/JAVA-GoF-chainOfResponsibility/)
 - [Structural_Bridge](https://soheeparklee.github.io/posts/JAVA-GoF-bridge/)
-- [Adapter](https://soheeparklee.github.io/posts/JAVA-GoF-adapter/)
-- [6.7 Branches of Windows](https://soheeparklee.github.io/posts/DAW-system-6-7-windows-folders/)
 <!-- BLOG-POST-LIST:END -->
 
