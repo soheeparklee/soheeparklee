@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [5.9 Files in Linux](https://soheeparklee.github.io/posts/DAW-system-5-9-linux-files/)
+- [Business layer production code](https://soheeparklee.github.io/posts/JAVA-TDD-business-1/)
 - [Behavioral_Command Pattern](https://soheeparklee.github.io/posts/JAVA-GoF-command/)
-- [Persistence layer test](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-2/)
-- [Persistence layer client code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-1/)
-- [Behavioral_Chain Of Responsibility](https://soheeparklee.github.io/posts/JAVA-GoF-chainOfResponsibility/)
-- [Structural_Bridge](https://soheeparklee.github.io/posts/JAVA-GoF-bridge/)
+- [Persistence layer test code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-2/)
+- [Persistence layer production code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-1/)
 <!-- BLOG-POST-LIST:END -->
 
