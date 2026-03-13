@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Behavioral_Visitor](https://soheeparklee.github.io/posts/JAVA-GoF-visitor/)
+- [Presentation layer- Mockito/MockMvc/Serialization/jakarta.validation](https://soheeparklee.github.io/posts/JAVA-TDD-presentation/)
+- [Business layer-create products/readOnly, CQRS/concurrency](https://soheeparklee.github.io/posts/JAVA-TDD-business-2/)
 - [5.9 Files in Linux](https://soheeparklee.github.io/posts/DAW-system-5-9-linux-files/)
-- [Business layer production code](https://soheeparklee.github.io/posts/JAVA-TDD-business-1/)
-- [Behavioral_Command Pattern](https://soheeparklee.github.io/posts/JAVA-GoF-command/)
-- [Persistence layer test code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-2/)
-- [Persistence layer production code](https://soheeparklee.github.io/posts/JAVA-TDD-persistence-1/)
+- [Business layer-create orders/transaction/tearDown&lpar;&rpar;](https://soheeparklee.github.io/posts/JAVA-TDD-business-1/)
 <!-- BLOG-POST-LIST:END -->
 
