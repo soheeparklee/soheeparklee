@@ -40,10 +40,10 @@
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Behavioral_Visitor](https://soheeparklee.github.io/posts/JAVA-GoF-visitor/)
-- [Presentation layer- Mockito/MockMvc/Serialization/jakarta.validation](https://soheeparklee.github.io/posts/JAVA-TDD-presentation/)
-- [Business layer-create products/readOnly, CQRS/concurrency](https://soheeparklee.github.io/posts/JAVA-TDD-business-2/)
-- [5.9 Files in Linux](https://soheeparklee.github.io/posts/DAW-system-5-9-linux-files/)
-- [Business layer-create orders/transaction/tearDown&lpar;&rpar;](https://soheeparklee.github.io/posts/JAVA-TDD-business-1/)
+- [7.9 Net Range](https://soheeparklee.github.io/posts/DAW-system-7-9-net/)
+- [7.8 IP address](https://soheeparklee.github.io/posts/DAW-system-7-8-ip/)
+- [7.5 Transport Layer 7.6 Network Layer 7.7 Link Layer](https://soheeparklee.github.io/posts/DAW-system-7-5-layers/)
+- [7.3 Protocols](https://soheeparklee.github.io/posts/DAW-system-7-4-protocols/)
+- [7.3 TCPI / IP Model vs OSI Model](https://soheeparklee.github.io/posts/DAW-system-7-3-TCPIP/)
 <!-- BLOG-POST-LIST:END -->
 
